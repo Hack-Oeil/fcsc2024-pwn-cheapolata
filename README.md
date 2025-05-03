@@ -23,12 +23,12 @@ Fichiers :
 > http://localhost
 
 #### tentez 
-> nc cheapolata.cyrhades.fr:4000
+> nc cheapolata.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
