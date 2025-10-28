@@ -5,7 +5,7 @@ On vous demande de lire le fichier ```flag.txt``` sur le serveur distant.
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [cheapolata](https://hackropole.fr/fr/challenges/pwn/fcsc2024-pwn-cheapolata/)
 
